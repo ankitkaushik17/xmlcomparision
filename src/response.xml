@@ -1,0 +1,30 @@
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+    <!--
+     this is other comment
+    -->
+    <url>
+        <loc>
+            http://www.krishantha.net/log-incoming-request-of-soap-ui-mock-service/
+        </loc>
+    </url>
+
+
+
+    <url>
+        <loc>
+            http://www.krishantha.net/data-masking-with-wso2-esb-and-xslt/
+        </loc>
+    </url>
+    <url>
+        <loc>http://www.krishantha.net/</loc>
+    </url>
+    <url>
+        <loc>http://www.krishantha.net/tag/multi-root-xml/</loc>
+    </url>
+    <url>
+        <loc>http://www.krishantha.net/tag/oauth/</loc>
+    </url>
+    <url>
+        <loc>http://www.krishantha.net/tag/payload/</loc>
+    </url>
+</urlset>
